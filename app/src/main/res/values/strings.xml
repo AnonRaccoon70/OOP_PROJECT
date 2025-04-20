@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OOP_PROJECT</string>
+    <string-array name="lutemon_colors">
+        <item>Black</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
